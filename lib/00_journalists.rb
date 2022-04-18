@@ -50,7 +50,7 @@ puts "Le array a #{handles_count} handles ."
 puts
 puts "Le handle le plus court est #{shortest_handle}."
 puts
-puts "Il y a #{handles_5chars_count}handles avec 5 caratères."
+puts "Il y a #{handles_5chars_count} handles avec 5 caratères."
 puts
 puts "Il y a #{uppercase_handles_count} handles commençant par une majuscule."
 puts
